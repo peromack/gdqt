@@ -7723,7 +7723,7 @@ em {
  */
 .bar-content {
   border-color: transparent;
-  background-color: #5069a1; /*#87ceeb; /*Redacron alteration #f70;*/
+  background-color: #f1582d; /*#87ceeb; /*Redacron alteration #f70;*/
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff; }
   .bar-content .title {
@@ -7990,7 +7990,7 @@ mm-navigation-bar .col {
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #5069a1;/*Redacron Alteration *#f70;*/
+  background-color: #f1582d;/*Redacron Alteration *#f70;*/
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff;
   height: 80px !important; }
